@@ -9,11 +9,18 @@
 
 - 🌱 I’m currently learning **Kotlin,React,Python**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Android and web development**
 
 - 📫 How to reach me **suwilanjichellah0228@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+[linkedin]( https://www.linkedin.com/in/suwilanji-chellah-01a534239/)
+[Twitter]( https://x.com/TreyChellah)
+
+<h3 align="left">Projects:</h3>
+[android UI/UX XML generator]( https://suwilanjitrey.github.io/IkarisC.S.I/)
+[Weather app](https://suwilanjitrey.github.io/weatherApp/)
+
 <p align="left">
 </p>
 
