@@ -13,17 +13,17 @@
 
 - 📫 How to reach me **suwilanjichellah0228@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 
-[linkedin]( https://www.linkedin.com/in/suwilanji-chellah-01a534239/)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suwilanji-chellah-01a534239/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:25378411) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@TreyChellah) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MrChellah) 
 
-[Twitter]( https://x.com/TreyChellah)
+
 
 <h3 align="left">Projects:</h3>
 
-[Weather app](https://suwilanjitrey.github.io/weatherApp/)
+<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> [Weather app](https://suwilanjitrey.github.io/weatherApp/)
 
-[android UI/UX XML generator]( https://suwilanjitrey.github.io/IkarisC.S.I/)
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> [android UI/UX XML generator]( https://suwilanjitrey.github.io/IkarisC.S.I/)
 
 <p align="left">
 </p>
@@ -35,3 +35,20 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suwilanjitrey&" alt="suwilanjitrey" /></p>
 
+
+
+
+
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=suwilanjitrey&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=suwilanjitrey&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=suwilanjitrey&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
