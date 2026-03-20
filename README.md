@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suwilanji Trey Chellah</h1>
+<h1 align="center">Hello , I'm Suwilanji Trey Chellah</h1>
 <h3 align="center">A passionate Software developer/Engineer from Zambia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suwilanjitrey&label=Profile%20views&color=0e75b6&style=flat" alt="suwilanjitrey" /> </p>
